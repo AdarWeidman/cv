@@ -119,6 +119,10 @@ a {
     color: black;
 }
 
+.contact-me {
+  padding-top: 50px;
+}
+
 .btn {
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
